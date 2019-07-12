@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="textview">TextView</string>
+    <string name="aladdin_music">Arabian Nights (2019) \n One Jump Ahead \n Speechless \n Prince Ali \n A Whole New World \n
+                The Big Ship \n Agrabah Marketplace \n Aladdin’s Hideout \n Until Tomorrow \n Jafar Summons the Storm \n The Wedding</string>
+    <string name="avatar_music">You Dont Dream in Cryo \n Jake Enters His Avatar World \n Pure Spirits of the Forest \n
+                    The Bioluminescence of the Night \n Becoming One of \n Climbing Up \n Jakes First Flight \n
+                    Scorched Earth \n Quaritch \n The Destruction of Hometree \n Shutting Down Grace Lab \n
+                Gathering All the Navi Clans for Battle \n War \n I See you</string>
+    <string name="end_music">Totally Fine \n Arrival \n No Trust \n Becoming Whole Again \n One Shot \n Destiny Fulfilled \n
+                            Worth It \n You Did Good \n The Real Hero</string>
+    <string name="frozen_music">Frozen Heart \n Do You Want to Build a Snowman? \n Let It Go \n In Summer \n The Trolls \n Let It Go
+                    \n Wolves \n Whiteout \n Summit Siege \n Epilogue</string>
+    <string name="spidermusic">The World is Changing \n Academic Decommitment \n No Vault of His Own \n Ferry Dust Up
+                            \n Bussed a Move \n Lift Off \n Vulture Clash \n A Stark Contrast \n Spider-Man: Homecoming Suite</string>
+    <string name="gladitormusic">Progeny \n The Wheat \n The Battle \n Earth \n Sorrow \n To Zucchabar \n Patricide \n
+                                The Might of Rome \n Elysium \n Honor Him \n Now We Are Free</string>
+    <string name="littlermusic">Fathoms Below \n Fanfare \n Part of Your World \n Under the Sea \n Part of Your World \n Kiss the Girl
+                                \n Fireworks \n The Storm \n Eric to the Rescue \n Happy Ending</string>
+</resources>
